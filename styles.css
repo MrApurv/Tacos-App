@@ -1,0 +1,12 @@
+nav{
+    margin-left: 10px;
+}
+#detail_summary{
+    margin-top:15px;
+}
+th,td,caption{
+    border: 1px solid black;
+}
+#days{
+    list-style-type: none;
+}
